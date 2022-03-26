@@ -1,0 +1,1 @@
+Zadanie 1 - jeżeli wyświetla się w konsoli to działa
